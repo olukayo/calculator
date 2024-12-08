@@ -23,7 +23,7 @@ button#toggle-theme {
   cursor: pointer;
   border: none;
   border-radius: 5px;
-  background-color: #4caf50;
+  background-color: black;
   color: white;
   transition: background-color 0.3s ease;
 }
