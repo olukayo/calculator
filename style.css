@@ -30,12 +30,12 @@ button#toggle-theme {
 
 button#toggle-theme:hover {
   background-color: rgb(125, 31, 31);
-  color: #080b0e;
+  color: white;
 }
 
 /* Dark Mode */
 body.dark-mode {
-  background-color: #080b0e;
+  background-color: white;
   color: #ecf0f1;
 }
 
