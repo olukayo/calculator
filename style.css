@@ -29,7 +29,7 @@ button#toggle-theme {
 }
 
 button#toggle-theme:hover {
-  background-color: #45a049;
+  background-color: white;
 }
 
 /* Dark Mode */
