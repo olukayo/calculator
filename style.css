@@ -29,7 +29,8 @@ button#toggle-theme {
 }
 
 button#toggle-theme:hover {
-  background-color: white;
+  background-color: rgb(125, 31, 31);
+  color: #080b0e;
 }
 
 /* Dark Mode */
