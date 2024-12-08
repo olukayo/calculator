@@ -35,7 +35,7 @@ button#toggle-theme:hover {
 
 /* Dark Mode */
 body.dark-mode {
-  background-color: white;
+  background-color: black;
   color: black;
 }
 
